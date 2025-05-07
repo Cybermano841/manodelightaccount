@@ -8,7 +8,7 @@ using
 
   
 I made an accounts for [Mano's Delight](https://www.mircosoft.com)
-https://github.com/Cybermano841/manodelightaccount/blob/main/ChatGPT%20Image%20May%207,%202025,%2004_23_19%20AM.png?raw=true
+
 ### MY EXPERIENCE MAKING THE ACCOUNTS
 
 When creating the accounts i realized it's not something to rush although it took time ,but i was patience enough to avoid making mistakes, i did not have any challenges when making the accounts or while using a fuction.
