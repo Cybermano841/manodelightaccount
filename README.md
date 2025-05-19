@@ -37,3 +37,35 @@ Examples are JSV,XML
 - Unstructured data
 
 It has no particular format but takes the form of Audio, videos and pictures
+
+## MYSQL
+### 📘 My SQL Learning Journey
+### 🧠 Why I Started Learning SQL
+
+
+I'm currently learning data analysis, and SQL is a core skill for working with databases. This document outlines the key concepts, queries, and practical insights I’ve gained during my SQL learning journey.
+
+### 🔍 Topics I’ve Learned
+
+1. Introduction to SQL
+- What is SQL?
+
+- Basic structure of SQL queries
+
+- SELECT, FROM, WHERE
+
+2. Data Manipulation
+- INSERT INTO
+
+- UPDATE
+
+- DELETE
+
+3. Table Operations
+- Creating tables (CREATE TABLE)
+
+- Altering table structures (ALTER TABLE)
+
+- Deleting tables (DROP TABLE)
+
+
